@@ -1,1 +1,0 @@
-Lightweight framework with it's own CRM. Demo site based on that tool: http://coff.by
