@@ -11,7 +11,7 @@ Main features:
 - PHPDoc with examples on two languages for main core classes.
 
 Framework core is located in the `cores/%CORE_VERSION%/` directory.
-Web sites or programms should be located in the `apps/%APP_NAME%/%APP_VERSION%` directory. Initial value for version is `1.0.0`.
+Web sites or programms should be located in the `apps/%APP_NAME%/%APP_VERSION%` directory. Initial `%APP_VERSION%` value is `1.0.0`.
 
 Dependencies:
 - PHP 7.0 (with `short_open_tag = On`);
