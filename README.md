@@ -13,7 +13,7 @@ Main features:
 Framework core is located in the `cores/%CORE_VERSION%/` directory.
 Web sites or programms should be located in the `apps/%APP_NAME%/%APP_VERSION%` directory. Initial `%APP_VERSION%` value is `1.0.0`.
 
-Dependencies:
+Requirements:
 - PHP 7.0 (with `short_open_tag = On`);
 - curl.so extension (optional, for `curl` classes);
 - mysqli.so extension (optional, for `database` classeses);
